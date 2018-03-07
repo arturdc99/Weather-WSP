@@ -1,3 +1,5 @@
 Weather-WSP/packages/*
 Weather-WSP/WeatherAPI/bin/*
 Weather-WSP/WeatherAPI/obj/*
+Weather-WSP/WeatherDTOs/bin/*
+Weather-WSP/WeatherDTOs/obj/*
